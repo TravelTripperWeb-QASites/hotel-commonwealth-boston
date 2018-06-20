@@ -1,0 +1,275 @@
+{
+  "name_localized": {
+    "en": "Suite, 1 Bedroom (Loft, 1 Bath)",
+    "es": "Suite, 1 Bedroom (Loft, 1 Bath)"
+  },
+  "short_description_localized": {
+    "en": "Suite, 1 Bedroom (Loft, 1 Bath)",
+    "es": "Suite, 1 Bedroom (Loft, 1 Bath)"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed</strong><br />614-sq-foot (57-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom and living room<br /> <b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 King Bed</strong><br />614-sq-foot (57-sq-meter) room, balcony with city views<br /><br /><b>Layout</b> - Bedroom and living room<br /> <b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ]
+  },
+  "images": [
+    {
+      "name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 1",
+      "file_name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 1",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/68859_1_yankee_large.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-20-082251",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 597704,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/large_68859_1_yankee_large.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/medium_68859_1_yankee_large.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/small_68859_1_yankee_large.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/xsmall_68859_1_yankee_large.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082251/thumb_68859_1_yankee_large.png",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    },
+    {
+      "name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 2",
+      "file_name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 2",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/68860_1_yankee_large.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-20-082254",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 487708,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/large_68860_1_yankee_large.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/medium_68860_1_yankee_large.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/small_68860_1_yankee_large.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/xsmall_68860_1_yankee_large.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082254/thumb_68860_1_yankee_large.png",
+      "caption": "Image 2",
+      "alt": "Image 2"
+    },
+    {
+      "name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 3",
+      "file_name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 3",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/68861_1_yankee_large.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-20-082257",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 676360,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/large_68861_1_yankee_large.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/medium_68861_1_yankee_large.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/small_68861_1_yankee_large.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/xsmall_68861_1_yankee_large.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082257/thumb_68861_1_yankee_large.png",
+      "caption": "Image 3",
+      "alt": "Image 3"
+    },
+    {
+      "name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 4",
+      "file_name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 4",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/68862_1_yankee_large.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-20-082301",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 760213,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/large_68862_1_yankee_large.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/medium_68862_1_yankee_large.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/small_68862_1_yankee_large.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/xsmall_68862_1_yankee_large.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082301/thumb_68862_1_yankee_large.png",
+      "caption": "Image 4",
+      "alt": "Image 4"
+    },
+    {
+      "name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 5",
+      "file_name": "Suite, 1 Bedroom (Loft, 1 Bath) Image 5",
+      "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/68863_1_yankee_large.png",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-06-20-082304",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 370012,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/large_68863_1_yankee_large.png",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/medium_68863_1_yankee_large.png",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/small_68863_1_yankee_large.png",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/xsmall_68863_1_yankee_large.png",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082304/thumb_68863_1_yankee_large.png",
+      "caption": "Image 5",
+      "alt": "Image 5"
+    }
+  ],
+  "": "RM22",
+  "order": 22
+}
