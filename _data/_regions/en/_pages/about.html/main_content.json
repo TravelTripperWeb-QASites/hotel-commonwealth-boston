@@ -1,5 +1,10 @@
 [
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1_type": "html",
+    "col1_html":  {
+      "content": "<h2>Amenities at Revere Hotel Boston Common</h2><h3>Everything you need</h3><p> Be sure to enjoy recreational amenities including an indoor pool and a 24-hour fitness center. Additional features at this hotel include complimentary wireless Internet access, concierge services, and wedding services.</p>"
+    },
+    "col2_type": "image"    
   }
 ]
