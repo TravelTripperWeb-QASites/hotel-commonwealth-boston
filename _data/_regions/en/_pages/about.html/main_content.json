@@ -47,6 +47,9 @@
   {
     "_template": "2_col",
     "col2_type": "html",
-    "col1_type": "image"
+    "col1_type": "image",
+    "col2_html": {
+      "content": "<h2>HEADER</h2>\n<p><a class=\"button\" href=\"a\">button</a></p>"
+    }
   }
 ]
