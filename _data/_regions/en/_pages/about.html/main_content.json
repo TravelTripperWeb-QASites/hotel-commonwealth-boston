@@ -51,6 +51,53 @@
     "col2_html": {
       "content": "<h2>HEADER</h2>\n<p><a class=\"button\" href=\"a\">button</a></p>",
       "style": "black"
+    },
+    "col1_image": {
+      "content": {
+        "name": "Crop_1",
+        "file_name": "Crop_1.jpg",
+        "url": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/Crop_1.png",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-06-20-102959",
+        "file_type": "image/jpeg",
+        "width": 570,
+        "height": 229,
+        "file_size": 231089,
+        "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/large_Crop_1.png",
+        "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/medium_Crop_1.png",
+        "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/small_Crop_1.png",
+        "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/xsmall_Crop_1.png",
+        "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/thumb_Crop_1.png",
+        "git_file_name": "_assets/image_data/Crop-1.json",
+        "path": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/Crop_1.png",
+        "alt": "Crop_1",
+        "crop": {
+          "origin": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 241,
+          "height": 193
+        },
+        "croppedImage": {
+          "name": "Crop_1",
+          "file_name": "Crop_1.png",
+          "url": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/Crop_1.png",
+          "tags": "",
+          "description": "",
+          "date_added": "2018-06-21-141610",
+          "file_type": "image/jpeg",
+          "width": 241,
+          "height": 193,
+          "file_size": 84678,
+          "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/large_Crop_1.png",
+          "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/medium_Crop_1.png",
+          "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/small_Crop_1.png",
+          "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/xsmall_Crop_1.png",
+          "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141610/thumb_Crop_1.png"
+        }
+      }
     }
   }
 ]
