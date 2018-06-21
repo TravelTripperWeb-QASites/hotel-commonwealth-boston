@@ -50,7 +50,7 @@
     "col1_type": "image",
     "col2_html": {
       "content": "<h2>HEADER</h2>\n<p><a class=\"button\" href=\"a\">button</a></p>",
-      "style": "gold"
+      "style": "black"
     }
   }
 ]
