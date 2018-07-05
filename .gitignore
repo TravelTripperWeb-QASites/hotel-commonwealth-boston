@@ -12,3 +12,4 @@ media.json
 old_media.json
 models.json
 _site/*
+.jekyll-metadata
