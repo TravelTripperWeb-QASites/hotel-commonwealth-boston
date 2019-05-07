@@ -14,5 +14,40 @@ address:
   zip_code: '02116'
 _hotel_id: REV457
 _portal_id: required-but-empty
-_ttweb_plugins_version: v2
 _root_path: http://rtexpress-qa.ttaws.com/rt
+_ttweb_plugins_version: v2
+default_currency: USD
+default_timezone: America/New_York
+__EDITABLE_FIELDS__:
+  name:
+    required: true
+  email:
+    type: string
+  phone:
+    type: string
+  default_currency:
+    required: true
+  address:
+    type: complex
+    fields:
+      street1:
+        type: string
+      state:
+        type: string
+      city:
+        type: string
+      zip_code:
+        type: string
+  map_zoom:
+    type: integer
+    latitude:
+      type: float
+    longitude:
+      type: float
+logo: <img id="1530810317929" class=" " src="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/large_68757_1_yankee_large.png"
+  alt="Image 4" data-image-large="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/large_68757_1_yankee_large.png"
+  data-image-medium="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/medium_68757_1_yankee_large.png"
+  data-image-small="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/small_68757_1_yankee_large.png"
+  data-image-xsmall="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/xsmall_68757_1_yankee_large.png"
+  data-image-thumb="//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-07-05-130515/thumb_68757_1_yankee_large.png"
+  />
