@@ -1,0 +1,96 @@
+[
+  {
+    "_template": "2_col",
+    "col1_type": "html",
+    "col1_html": {
+      "content": "<h2>Amenities at Revere Hotel Boston Common</h2><h3>Everything you need</h3><p> Be sure to enjoy recreational amenities including an indoor pool and a 24-hour fitness center. Additional features at this hotel include complimentary wireless Internet access, concierge services, and wedding services.</p>",
+      "style": "light"
+    },
+    "col2_type": "image",
+    "col2_image": {
+      "content": {
+        "name": "Deluxe Room, 2 Queen Beds, Accessible Image 4",
+        "file_name": "Deluxe Room, 2 Queen Beds, Accessible Image 4",
+        "url": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/68757_1_yankee_large.png",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-06-20-082427",
+        "file_type": "image/jpeg",
+        "width": 800,
+        "height": 600,
+        "file_size": 491915,
+        "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/large_68757_1_yankee_large.png",
+        "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/medium_68757_1_yankee_large.png",
+        "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/small_68757_1_yankee_large.png",
+        "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/xsmall_68757_1_yankee_large.png",
+        "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/thumb_68757_1_yankee_large.png",
+        "caption": "Image 4",
+        "alt": "Image 4",
+        "git_file_name": "_assets/image_data/Deluxe-Room--2-Queen-Beds--Accessible-Image-4.json",
+        "path": "//cdn.qa-traveltripper.info/site-assets/2_27_119/media/2018-06-20-082427/68757_1_yankee_large.png"
+      }
+    }
+  },
+  {
+    "_template": "2_col"
+  },
+  {
+    "_template": "2_col"
+  },
+  {
+    "_template": "2_col",
+    "col2_type": "html",
+    "col1_type": "image",
+    "col2_html": {
+      "content": "<h2>HEADER</h2>\n<p><a class=\"button\" href=\"a\">button</a></p>",
+      "style": "black"
+    },
+    "col1_image": {
+      "content": {
+        "name": "Crop_1",
+        "file_name": "Crop_1.jpg",
+        "url": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/Crop_1.png",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-06-20-102959",
+        "file_type": "image/jpeg",
+        "width": 570,
+        "height": 229,
+        "file_size": 231089,
+        "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/large_Crop_1.png",
+        "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/medium_Crop_1.png",
+        "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/small_Crop_1.png",
+        "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/xsmall_Crop_1.png",
+        "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/thumb_Crop_1.png",
+        "git_file_name": "_assets/image_data/Crop-1.json",
+        "path": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-20-102959/Crop_1.png",
+        "alt": "Crop_1",
+        "crop": {
+          "origin": {
+            "x": 169,
+            "y": 21
+          },
+          "width": 241,
+          "height": 193
+        },
+        "croppedImage": {
+          "name": "Crop_1",
+          "file_name": "Crop_1.png",
+          "url": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/Crop_1.png",
+          "tags": "",
+          "description": "",
+          "date_added": "2018-06-21-141645",
+          "file_type": "image/jpeg",
+          "width": 241,
+          "height": 193,
+          "file_size": 86873,
+          "url_large": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/large_Crop_1.png",
+          "url_medium": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/medium_Crop_1.png",
+          "url_small": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/small_Crop_1.png",
+          "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/xsmall_Crop_1.png",
+          "url_thumb": "//cdn.qa-traveltripper.info/site-assets/2_27_122/media/2018-06-21-141645/thumb_Crop_1.png"
+        }
+      }
+    }
+  }
+]

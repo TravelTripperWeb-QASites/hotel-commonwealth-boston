@@ -1,6 +1,3 @@
-
-gems:
-- jekyll-sitemap
 keep_files:
 - assets
 rsync_copy:
@@ -14,7 +11,7 @@ exclude:
 google_maps_api_key: AIzaSyBm2DXwUKvbnRTgoBHaJ3LKuNJi_atHfKc
 
 plugins_dir:
-  - _plugins-core
+  - _plugins-38
   - _plugins
 
 i18n_dir:
